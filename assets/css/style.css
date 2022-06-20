@@ -52,7 +52,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 /*--------------------------------------------------------------
-# Header
+# 
+
 --------------------------------------------------------------*/
 #header {
   position: fixed;
@@ -275,7 +276,7 @@ section {
   margin-bottom: 20px;
   padding-bottom: 20px;
   position: relative;
-  color: #021b3e;
+  color: #173b6c;
 }
 .header-1 {
   font-size: 32px;
